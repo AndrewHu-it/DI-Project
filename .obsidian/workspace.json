@@ -8,32 +8,91 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c1972d59d0f4eb84",
+            "id": "dad9a780d3a45f82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Course Sections/cognitive capacities; parsing the categories and terms of description (e.g. memory, reasoning, planning, conceptual abstraction, creative imagination, etc.).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d98278cbf921e34e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Additional Resources/List of Books.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d370237a9e6cf14f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Course Sections/simulation theory, theory theory, and the importance of intersubjectivity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ac62dc1fc27cb17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fundamental Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db8710dacb233d8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Course Sections/the Turing test, anthropomorphization, and the AI effect.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b30835229b51323a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fundamental Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e185483e50b228dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "❖Outline.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
-      },
-      {
-        "id": "ec5e26c5be3a4e47",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "964345bb6f9dcbb4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -83,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "d20e10a282659036",
@@ -99,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "❖Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "❖Outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "❖Outline.md"
               }
             }
           }
@@ -160,9 +219,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1972d59d0f4eb84",
+  "active": "e185483e50b228dc",
   "lastOpenFiles": [
+    "Course Sections/the history of ideas about intelligence, including attitudes and practices related to animals and social policies (eugenics, education, medical, legal, etc.).md",
+    "❖Outline.md",
+    "Course Sections/cognitive capacities; parsing the categories and terms of description (e.g., memory, reasoning, planning, conceptual abstraction, creative imagination, etc.).md",
+    "Course Sections/the concept of General Intelligence (and the challenge of AGI).md",
+    "Additional Notes/Book-- A Brief History of Intelligence NOTEs.md",
+    "Screenshot 2024-07-05 at 1.30.06 PM.png",
+    "Screenshot 2024-07-05 at 1.01.54 PM.png",
+    "Course Sections/signs, signals, and speciation.md",
+    "Course Sections/Communication and collaboration between diverse intelligences.md",
+    "Course Sections/Sociality and Human development; self, other, and theory of mind.md",
+    "zTheory-Of-Mind-Future-Needs.png",
+    "Screenshot 2024-07-04 at 6.47.03 PM.png",
+    "Course Sections/Curiosity, creativity, and imagination; search, possibility, and the importance of choice.md",
+    "Resources & Bibliography.md",
     "README.md",
-    "Welcome.md"
+    "Organization, Revision, and Additional Ideas to Add.md",
+    "Fundamental Questions.md",
+    "Additional Resources/Possible New books to Read.md",
+    "Additional Resources/List of Books.md",
+    "Additional Resources/Electrical memory in Venus flytrap.md",
+    "Additional Resources/Additional Resources to assimilate.md",
+    "Additional Notes/Hard Problem of Consciousness.md",
+    "A - Website Design/Cool looking website design.md",
+    "Course Sections/the Turing test, anthropomorphization, and the AI effect.md",
+    "Course Sections/the mystery of matter, mechanism, and mind.md",
+    "Course Sections/the mirror test; its implications and limitations.md",
+    "Course Sections/the human embodied form (faces, hands, and upright posture) and its relationship to mind.md",
+    "Course Sections/teaching and learning; entrainment, imitation, and emulation in social coordination.md",
+    "Course Sections/strengths, limitations, and future developments.md",
+    "Course Sections/Self, self-awareness, and metacognition (bridging to the human).md",
+    "zFlops:$1000.png",
+    "Screenshot 2024-07-01 at 8.12.17 PM.png",
+    "DISI Program Resources/Brain Size Explosion -- Cooperrider.png",
+    "DISI Program Resources/Screenshot 2024-07-01 at 3.01.32 PM.png",
+    "DISI Program Resources/Culture -- Cooperrider.png",
+    "DISI Program Resources/Screenshot 2024-07-01 at 2.12.56 PM.png",
+    "DISI Program Resources",
+    "untitled folder",
+    "A - Website Design",
+    "zClever Hans Reading.pdf",
+    "zCrow, rocks to get water.pdf",
+    "Images",
+    "Additional Notes",
+    "Questions",
+    "Additional Resources",
+    "Course Sections"
   ]
 }
