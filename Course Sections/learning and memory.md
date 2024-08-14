@@ -8,3 +8,12 @@ So this brings back the important distinction between *Success* and *Learning*
 **Animal Mind:** Clever Hans 
 
 ![[zClever Hans Reading.pdf]]
+
+
+
+
+Dish Neurons learn to play pong: 
+https://www.youtube.com/watch?v=67r7fDRBlNc&t=13s&ab_channel=IhmCurious
+
+
+https://www.youtube.com/@ihmcurious/videos

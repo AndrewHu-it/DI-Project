@@ -1,3 +1,5 @@
+Primary Resources: A brief history of intelligence
+
 Explore chemotaxis. 
 
 >[!White blood cell chasing ]
@@ -16,4 +18,4 @@ Explore chemotaxis.
 
 
 
-
+***This would be a good place to include lots of Bennetts ideas from his book....***

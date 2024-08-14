@@ -158,7 +158,7 @@ Inductive bias!
 
 eminately capable 
 
-It took explicitly programming in curiosity to beat the video game Montezuma's revenge in 2018, by rewarding finding new things. This is because there were no explicit rewards until very far in the game. I think this is what Elon is talking about.... An explicitly curious AI 
+It took explicitly programming in curiosity to beat the video game Montezuma's revenge in 2018, by rewarding finding new things. This is because there were no explicit rewards until very far in the game. I think this is what xAi is talking about.... An explicitly curious AI 
 >“In vertebrates, surprise itself triggers the release of dopamine, even if there is no “real” reward. And yet, most invertebrates do not exhibit curiosity; only the most advanced invertebrates, such as insects and cephalopods, show curiosity, a trick that evolved independently and wasn’t present in early bilaterians.”
 
 
@@ -318,7 +318,7 @@ Max Bennett
 
 
 
-![[Screenshot 2024-07-05 at 1.01.54 PM.png]]
+![[zSources-of-learning.png]]
 
 ***Ideas Evolving Through an evolutionary Process Through Language:***
 
@@ -346,15 +346,65 @@ Language --> allows for the evolution of ideas.
 **READING FOR DI:** The importance of Language, its significance chapter 19 
 
 
-![[Screenshot 2024-07-05 at 1.30.06 PM.png]]
+![[zBroca's Area.png]]
+
+***Language connection:***
+“The human motor cortex has a unique connection directly to the brainstem area for controlling the larynx and vocal cords—this is one of the few structural differences between the brains of humans and those of other apes.”
+
+“Your brain and a chimpanzee brain are practically identical; a human brain is, almost exactly, just a scaled-up chimpanzee brain.”
+
+
+“The human brain has parallel control of facial expressions; there is an older emotional-expression system that has a hard-coded mapping between emotional states and reflexive responses. This system is controlled by ancient structures like the amygdala. Then there is a separate system that provides voluntary control of facial muscles that is controlled by the neocortex.”
+
+Interesting passage on the emergence of language here -- where it came from
+
+
+Chimps: Emotional expression systems
+Humans: Emotional expression systems AND specific language in the neocortex.
+
+“Human laughs, cries, and scowls are evolutionary remnants of an ancient and more primitive system for communication, a system from which ape hoots and gestures emerge. However, when we speak words, we are doing something without any clear analog to any system of ape communication.”
+
+Birds are not born being able to fly: 
+“A skill as sophisticated as flying is too information-dense to hard-code directly into a genome. It is more efficient to encode a generic learning system (such as a cortex) and a specific hardwired learning curriculum (instinct to want to jump, instinct to flap wings, and instinct to attempt to glide). It is the pairing of a learning system and a curriculum that enables every single baby bird to learn how to fly.”
 
 
 
+“It seems that joint attention and proto-conversations evolved for a single reason. What is one of the first things that parents do once they have achieved a state of joint attention with their child? They assign labels to things”
+
+“Here is the point: There is no language organ in the human brain, just as there is no flight organ in the bird brain. Asking where language lives in the brain may be as silly as asking where playing baseball or playing guitar lives in the brain. Such complex skills are not localized to a specific area; they emerge from a complex interplay of many areas. What makes these skills possible is not a single region that executes them but a curriculum that forces a complex network of regions to work together to learn them.”
+
+***Chapter 21: Perfect Storm***
+Oldowan tools 
+
+Homo Erectus: 
+Hyper carnivore: eating 85% meat 
+Uniquely adapted to throwing things. 
+
+“When meat or vegetables are cooked, harder-to-digest cellular structures are broken down into more energy-rich chemicals. Cooking enables animals to absorb 30 percent more nutrients and spend less time and energy digesting”
+
+"All human cultures use cooking'
+
+Humans are born much earlier relative to other animals so that their massive heads can fit through the birth canal
+
+Gossip as the origins of language:
+“Dunbar measured this—he eavesdropped on public conversations and found that as much as 70 percent of human conversation is gossip. This, to Dunbar, is an essential clue into the origins of language.”
+
+“We are indeed some of the most altruistic animals, but we may have paid the price for this altruism with our darker side: our instinct to punish those who we deem to be moral violators; our reflexive delineation of people into good and evil; our desperation to conform to our in-group and the ease with which we demonize those in the out-group. And with these new traits, empowered by our newly enlarged brains and cumulative language, the human instinct for politics—derived from our ancestral primates—was no longer a little trick for climbing social hierarchies but a cudgel of coordinated conquest. All this is the inevitable result of a survival niche requiring high levels of altruism between unrelated individuals.”
+
+----
+***Chapter 22:*** ChatGPT and the Window into the Mind
+
+“When a human makes a request like “Maximize the production of paper clips” or “Be nice to Rima” or “Eat breakfast,” he or she is not actually providing a well-defined goal. Instead, both parties are guessing what is going on in the other’s head. The requester simulated a desired end state, perhaps high profit margins or Rima being happy or a healthy well-fed child, and then the requester attempted to translate this desired simulation into the mind of another with language.”
+
+Build deep mental models of the underlying reality. 
+
+“In the human brain, language is the window to our inner simulation. Language is the interface to our mental world. And language is built on the foundation of our ability to model and reason about the minds of others—to infer what they mean and figure out exactly which words will produce the desired simulation in their mind. I think most would agree that the humanlike artificial intelligences we will one day create will not be LLMs; language models will be merely a window to something richer that lies beneath.”
+
+“Early humans got caught in an unlikely perfect storm of effects. The dying forests of the African savannah pushed early humans into a tool-making meat-eating niche, one that required the accurate propagation of tool use across generations. Proto-languages emerged, enabling tool use and manufacture skills to successfully propogate across generations. The neurological change that enabled language was not a new neurological structure but an adjustment to more ancient structures, which created a learning program for language; the program of proto-conversations and joint attention that enables children to tether names to components of their inner simulation. Trained with this curriculum, older areas of the neocortex were repurposed for language.”
+
+“cooking was invented, offering a huge caloric surplus that could be spent on tripling the size of brains.”
+
+“If there is anything that truly makes humans unique, it is that the mind is no longer singular but is tethered to others through a long history of accumulated ideas."
 
 
-
-
-
-
-
-
+**Conclusion:**

@@ -1,4 +1,25 @@
 
+
+***Questions of various definitions of intelligence:***
+Despite the specific definition we use, seem to be common themes (memory, etc) and a gradation of abilities: 
+>[! definitions of intelligence]
+>Psychology Textbook: intelligence is the ability to learn from experience, solve problems, and use knowledge to adapt to new situations.
+>
+>Section on various definitions of intelligence:https://en.wikipedia.org/wiki/Intelligence
+==have each of the people we interview provide a definition of intelligence==
+
+
+
+
+
+
+
+
+
+
+
+
+
 What we want to do here is simply to introduce these terms, show why they are relevant through preliminary examples, and explain how we are going to explore them more later.
 
 Auto Associative Memory -- This is clearly important in Biological Systems
@@ -16,4 +37,11 @@ This material may be protected by copyright.
 
 
 John Hopfield 
+
+**Important Distinction, and the distinction between register addressable memory in a computer:** 
+Episodic memory vs Procedural memory 
+- Episodic memory is a simulation of the past, if you want to remember something you need to create a simulation of it 
+
+
+
 

@@ -9,3 +9,8 @@ This material may be protected by copyright.
 
 “Psychologists and philosophers call this metacognition: the ability to think about thinking.”
 
+
+
+Learning by counterfactual. This seems to be pretty important in the human training process. Humans can literally simulate their own training data. 
+- Reasoning about counterfactuals. 
+

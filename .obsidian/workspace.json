@@ -85,6 +85,42 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Course Readings/1) readings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86de9db3887ea74d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "❖Outline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "417cb9520766784a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Additional Notes/Book-- A Brief History of Intelligence NOTEs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7227dcc730411a3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "❖Outline.md",
                 "mode": "source",
                 "source": false
@@ -92,7 +128,25 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
+      },
+      {
+        "id": "5fb278d96ce81109",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "040342e54ad3be35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "❖Outline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,44 +273,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e185483e50b228dc",
+  "active": "7227dcc730411a3b",
   "lastOpenFiles": [
-    "Course Sections/the history of ideas about intelligence, including attitudes and practices related to animals and social policies (eugenics, education, medical, legal, etc.).md",
+    "Course Readings/3) supplementary readings.md",
     "❖Outline.md",
-    "Course Sections/cognitive capacities; parsing the categories and terms of description (e.g., memory, reasoning, planning, conceptual abstraction, creative imagination, etc.).md",
-    "Course Sections/the concept of General Intelligence (and the challenge of AGI).md",
+    "Course Sections/the Turing test, anthropomorphization, and the AI effect.md",
+    "A - Website Design/Cool looking website design.md",
+    "Glossary.md",
     "Additional Notes/Book-- A Brief History of Intelligence NOTEs.md",
-    "Screenshot 2024-07-05 at 1.30.06 PM.png",
-    "Screenshot 2024-07-05 at 1.01.54 PM.png",
-    "Course Sections/signs, signals, and speciation.md",
-    "Course Sections/Communication and collaboration between diverse intelligences.md",
-    "Course Sections/Sociality and Human development; self, other, and theory of mind.md",
+    "Course Sections/Curiosity, creativity, and imagination; search, possibility, and the importance of choice.md",
+    "Course Sections/cognitive capacities; parsing the categories and terms of description (e.g., memory, reasoning, planning, conceptual abstraction, creative imagination, etc.).md",
+    "Course Sections/Self, self-awareness, and metacognition (bridging to the human).md",
+    "Course Sections/basic principles of design and operation; GOFAI, supervised learning, unsupervised learning, reinforcement learning, self-supervised learning, etc..md",
+    "Course Sections/body forms and ‘shapes’ of minds.md",
+    "Course Sections/Genetics and innate motor programs (fixed action patterns).md",
+    "Course Sections/evolution and the role of intelligence.md",
+    "Course Sections/intelligence and the vital powers of living beings; awareness, action, and appetite (reward, desire, aspiration).md",
+    "Course Sections/anti-entropic process and the definition of life.md",
+    "Additional Resources/List of Books.md",
+    "2024-07-07.md",
+    "Course Sections/the mystery of matter, mechanism, and mind.md",
+    "Untitled.md",
+    "Additional Resources/Additional Resources to assimilate.md",
+    "Course Sections/learning and memory.md",
+    "Course Sections/the history of ideas about intelligence, including attitudes and practices related to animals and social policies (eugenics, education, medical, legal, etc.).md",
+    "Course Sections/calibrating, measuring, and evaluating intelligence.md",
+    "zOwl Meme -'Tree smarts'.png",
+    "Screenshot 2024-07-06 at 1.24.20 PM.png",
+    "zSources-of-learning.png",
+    "zGardner's Multiple Intelligence.png",
+    "Screenshot 2024-07-06 at 1.13.36 PM.png",
+    "zBroca's Area.png",
+    "Course Readings/16) supplementary readings.md",
+    "Course Readings/16) readings.md",
+    "2. readings.md",
+    "Course Readings",
     "zTheory-Of-Mind-Future-Needs.png",
     "Screenshot 2024-07-04 at 6.47.03 PM.png",
-    "Course Sections/Curiosity, creativity, and imagination; search, possibility, and the importance of choice.md",
-    "Resources & Bibliography.md",
-    "README.md",
-    "Organization, Revision, and Additional Ideas to Add.md",
-    "Fundamental Questions.md",
-    "Additional Resources/Possible New books to Read.md",
-    "Additional Resources/List of Books.md",
-    "Additional Resources/Electrical memory in Venus flytrap.md",
-    "Additional Resources/Additional Resources to assimilate.md",
-    "Additional Notes/Hard Problem of Consciousness.md",
-    "A - Website Design/Cool looking website design.md",
-    "Course Sections/the Turing test, anthropomorphization, and the AI effect.md",
-    "Course Sections/the mystery of matter, mechanism, and mind.md",
-    "Course Sections/the mirror test; its implications and limitations.md",
-    "Course Sections/the human embodied form (faces, hands, and upright posture) and its relationship to mind.md",
-    "Course Sections/teaching and learning; entrainment, imitation, and emulation in social coordination.md",
-    "Course Sections/strengths, limitations, and future developments.md",
-    "Course Sections/Self, self-awareness, and metacognition (bridging to the human).md",
     "zFlops:$1000.png",
     "Screenshot 2024-07-01 at 8.12.17 PM.png",
-    "DISI Program Resources/Brain Size Explosion -- Cooperrider.png",
-    "DISI Program Resources/Screenshot 2024-07-01 at 3.01.32 PM.png",
-    "DISI Program Resources/Culture -- Cooperrider.png",
-    "DISI Program Resources/Screenshot 2024-07-01 at 2.12.56 PM.png",
     "DISI Program Resources",
     "untitled folder",
     "A - Website Design",
@@ -265,7 +320,6 @@
     "Images",
     "Additional Notes",
     "Questions",
-    "Additional Resources",
-    "Course Sections"
+    "Additional Resources"
   ]
 }

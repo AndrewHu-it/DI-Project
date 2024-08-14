@@ -29,3 +29,8 @@ https://en.wikipedia.org/wiki/Motion-induced_blindness
 https://www.youtube.com/watch?v=0a3xg4M9Oa8&ab_channel=TheWell
 
 
+Interesting website full of books: https://www.youtube.com/@ihmcurious/videos
+
+
+Interesting interview with Author of Brief history of intelligence: https://www.youtube.com/watch?v=FORO6jqTTD8&ab_channel=Ai4
+
